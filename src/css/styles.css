@@ -67,6 +67,7 @@ h1 {
     display: block;
     margin: 0px;
     padding: 4%;
+    width: 100%;
 }
 
 .box-links ul li a:hover {
