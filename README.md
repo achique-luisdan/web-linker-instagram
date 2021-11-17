@@ -1,2 +1,2 @@
 # Web Linker Instagram
-Web Enlazador para Instagram
+Web Enlazador para Instagram.
